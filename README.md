@@ -1,5 +1,5 @@
 # Bone Collector
-
+Pelin ideana on kerätä tasolta kaikki luut, välttäen vihollis kosketukset ja edetä seuraavalle tasolle. 
 
 ![start](https://github.com/damakes/Pygame-Bone-collector/assets/155246347/ee7b2d8e-7ee2-405d-bc1e-7cb74d24e6a9)
 
