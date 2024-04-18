@@ -1,6 +1,10 @@
-# Pygame Bone Collector
+# Python (OOP) Course Project
 
-Simple game where the objective is to collect all the bones on each level, avoiding dangerous obstacles, and progressing to the next level. The game is built using Pygame library, in constructing the game and handling files. It utilizes `pygame.mixer` for sound file management and `pickle` data storage.
+Project assignment for Object-Oriented programming course, completed as part of studies during my second year at XAMK UAS, Bachelor of Engineering.
+
+### Bone Collector
+
+The aim of the course project was to develop a simple game, where the player's goal is to collect all the bones on each level, while avoiding dangerous obstacles and advancing to the next level. The game is built using Pygame library, in constructing the game and handling files. It utilizes `pygame.mixer` for sound file management and `pickle` data storage.
 
 <img src="https://github.com/damakes/Pygame-Bone-collector/assets/155246347/ee7b2d8e-7ee2-405d-bc1e-7cb74d24e6a9.png" width="200" height="280">
 
@@ -8,7 +12,7 @@ Simple game where the objective is to collect all the bones on each level, avoid
 
 <img src="https://github.com/damakes/Pygame-Bone-collector/assets/155246347/a1ae23e2-a113-4dc7-9002-1ec5ac5cc5a2.png" width="200" height="280">
 
-## Folder Structure
+### Folder Structure
 - **sounds**: Contains sound files used in the game.
 - **img**: Contains visual elements used in the game.
 - **sources**: Includes the source materials used in the project.
@@ -20,10 +24,8 @@ Simple game where the objective is to collect all the bones on each level, avoid
 - Bark by User: [xpoki](https://freesound.org/people/xpoki/sounds/432755/), June 16th, 2018
 - Pianokl by User: [insinger](https://freesound.org/people/insinger/sounds/25817/), November 14th, 2006
 
-## Additional Resources
+### Resources 
 - [Pygame Resources](https://www.pygame.org/)
 - [Coding with Russ YouTube Tutorial](https://www.youtube.com/user/russsharer)
 - [W3Schools Python Documentation](https://www.w3schools.com/python/)
 
-
----
